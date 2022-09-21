@@ -71,9 +71,10 @@ Don't worry why yours isn't as full as the images. Within time it will be.
 Adds all of the changes we are making locally to be able to push it onto the server.
 ```shell
 > root@896cf839cf9a:/# git add .
-
+```
+```shell
 > root@896cf839cf9a:/# git add (filename)
-``` 
+ ```
 * With the add command are also 2 other commands that must be used after it:
 > git commit -m 'txt'  (makes the changes save)
 
@@ -133,6 +134,8 @@ _It actually resembles you checking out from your work, which I find amusing.._
 (makes a new branch and switches to it)
 ```shell
 > root@896cf839cf9a:/# git checkout <branch name> 
+```
+```shell
 > root@896cf839cf9a:/# git checkout -b <new name>  
 ```
  * Afterwards lets say another peer/coworker adds an update to the server. Obviously you will need to apply it to your local version to use the most up to date one possible. You will need to use a specific other command:
@@ -155,6 +158,8 @@ _It actually resembles you checking out from your work, which I find amusing.._
 
 ```shell
 > root@896cf839cf9a:/# git <merge branch> <origin branch>
+```
+```shell
 > root@896cf839cf9a:/# git merge --abort
 ```
 * Whilst working you may stumble upon having multiple files that are from the same directory with similar contents.
