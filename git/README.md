@@ -22,7 +22,7 @@ Which isn't the repository just yet..
 
 ___The REPOSITORY___.
 
-* The ___repository___ ![repository](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2022/2/129da22e07db4f6ccbd715687d18b5179359ba38.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220921%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220921T090619Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5bfab5e15c7e10eff3fecf9e18b463df410ebe2b56f78fa05490c93c2556b63b) 
+* The ___repository___ ![repository](https://git-scm.com/book/en/v2/images/newrepoform.png) 
 
 can be set up on your [GitHub main page](https://github.com) by clicking the __NEW repository__ button on the left side of the page.
 * After you have clicked the button it will ask you to name the Repository __where you will have to give it a very thoughtful and deep name like:__
@@ -31,8 +31,9 @@ can be set up on your [GitHub main page](https://github.com) by clicking the __N
 Well maybe you should give it a more meaningful name than that but I ___loove Sparngles...___
 
 * You may choose to give it a description but that is up to you, it isn't neccesary for the page.
-* After that you will have the option to make it public or private depending on your wishes.
-___Disclaimer: It is not recommended for starters to click any of the 3 buttons after that though. It is better to just leave those alone as you will make the later on.___
+* After that you will have the option to make it public or private depending on your wishes. 
+
+`___Disclaimer: It is not recommended for starters to click any of the 3 buttons after that though. It is better to just leave those alone as you will make the later on.___`
 
 * After that you will have the option to edit your GitHub page but first you must launch the terminal app on your computer __(It should already be installed on your PC/Laptop, but if not you can get it [here]( https://learn.microsoft.com/en-us/windows/terminal/install)).__
 
